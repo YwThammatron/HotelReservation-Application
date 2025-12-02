@@ -32,11 +32,8 @@ Responsibility - Frontend Developer
 - Enable and disable button by clicking step to prevent payment and lacking data 
 
 Project Clone Guides
-Frontend Terminal
-- Open Terminal and run cd to path of entire project
-- Run python main.py
-
-Backend Terminal
-- Open Terminal and run cd to path of entire project
+- Open other Terminal and run cd to path of entire project
 - Run pip install -r requirements.txt for installing libraries and dependencies
-- Run python main.py
+- Run python main.py (backend)
+- Open Terminal and run cd to path of entire project
+- Run python main.py (frontend)
